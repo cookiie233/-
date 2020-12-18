@@ -37,6 +37,7 @@ import java.util.Random;
                     case 4: drawableResource = R.drawable.girl; break;
                     case 5: drawableResource = R.drawable.shuai; break;
                     case 6: drawableResource = R.drawable.woniu; break;
+                    case 0：drawableResource = R.drawable.woniu; break;
 
 
                     default:
